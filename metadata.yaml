@@ -1,0 +1,28 @@
+_repo: Az-arany-szalamandra_18365
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Donászy, Ferenc
+    alias: Donaszy, Ferenc
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '7973'
+    url: http://www.gutenberg.org/2009/agents/7973
+    wikipedia: http://hu.wikipedia.org/wiki/Don%C3%A1szy_Ferenc
+description: ''
+gutenberg_issued: '2006-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18365'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Az arany szalamandra
+url: http://www.gutenberg.org/ebooks/18365

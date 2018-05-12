@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7973
     wikipedia: http://hu.wikipedia.org/wiki/Don%C3%A1szy_Ferenc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18365#Az-arany-szalamandra
 gutenberg_issued: '2006-05-10'
 gutenberg_type: Text
 identifiers:
